@@ -7,5 +7,4 @@ that you want! However, this image has been created to provide a default install
 Images are being built and [distributed on DockerHub](https://cloud.docker.com/repository/docker/colinnolan/ffmpeg):
 - `colinnolan/ffmpeg:latest` - Debian + ffmpeg
 
-If you are working with a Raspberry Pi, you may be interested in [ffmpeg compiled for rpi](https://github.com/colin-nolan/docker-ffmpeg-rpi).
-
+If you are working with a Raspberry Pi, you may be interested in [Docker images with ffmpeg for rpi](https://github.com/colin-nolan/docker-ffmpeg-rpi).
