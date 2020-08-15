@@ -12,7 +12,12 @@ Images are available for arm64v8, amd64 and arm32v7.
 
 If you are working with a Raspberry Pi, you may be interested in [an optimised Docker image with ffmpeg for rpi](https://github.com/colin-nolan/docker-ffmpeg-rpi).
 
-## Note
-This software uses libraries from the FFmpeg project under the LGPLv2.1. For details, including a copy of the FFmpeg
-source, please [see the ffmpeg Debian package page](https://packages.debian.org/buster/ffmpeg).
+
+## Legal
+This software uses libraries from [the FFmpeg project](http://ffmpeg.org/) under the LGPLv2.1. For details, including 
+a copy of the FFmpeg source, please [see the ffmpeg Debian package page](https://packages.debian.org/buster/ffmpeg).
+
+I am not affiliated to the development of FFmpeg in any way.
+
+This work is in no way related to the company that I work for.
 
